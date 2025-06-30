@@ -25,3 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whotterre&" alt="whotterre" /></p>
 
+<figure><embed src="https://wakatime.com/share/@38a8105c-9a01-4d79-b4d8-d474924471a1/8bf92bec-e788-42b3-9e1e-6ce14af6bad9.svg"></embed></figure>
