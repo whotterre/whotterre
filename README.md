@@ -1,15 +1,15 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="https://i.imgur.com/SKOe6gQ.gif" alt="cover" />
+<img width="100%" height = "3000px" src="https://i.imgur.com/SKOe6gQ.gif" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Initiating boot sequence... <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=whotterre.whotterre)
 
 </p>
-<div size='20px'>I'm a software engineer who builds with Go and TypeScript. You'll often find me deep in code, working on interesting projects. Right now, I'm super into learning all about microservices architectures – figuring out how to design and build systems that are not just robust, but also really scalable and easy to maintain. I'm also getting pretty cozy with AWS cloud services, constantly honing my skills to deploy and manage applications effectively in the cloud.
+<div size='20px'>I'm a software engineer who works with Go and TypeScript. You'll often find me deep in code, working on interesting projects. Right now, I'm super into learning all about microservices architectures – figuring out how to design and build systems that are not just robust, but also really scalable and easy to maintain. I'm also getting pretty cozy with AWS cloud services, constantly honing my skills to deploy and manage applications effectively in the cloud.
 </div>
 
 <h2> About Me </h2>
