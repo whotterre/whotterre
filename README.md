@@ -9,7 +9,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=whotterre.whotterre)
 
 </p>
-<div size='20px'> Hi! My name is Iwegbu Jedidiah. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'>I'm a software engineer who builds with Go and TypeScript. You'll often find me deep in code, working on interesting projects. Right now, I'm super into learning all about microservices architectures – figuring out how to design and build systems that are not just robust, but also really scalable and easy to maintain. I'm also getting pretty cozy with AWS cloud services, constantly honing my skills to deploy and manage applications effectively in the cloud.
 </div>
 
 <h2> About Me </h2>
@@ -21,7 +21,6 @@
 
 - 👯 I’m looking to collaborate on projects, tech articles... 
 
-- 💬 Talk to me about stuff.... 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/whotterre?tab=repositories&q=&type=&language=go&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'> </a>
