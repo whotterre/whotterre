@@ -23,7 +23,7 @@
 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/whotterre?tab=repositories&q=&type=&language=go&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'> </a>
+<a href= https://github.com/whotterre?tab=repositories&q=&type=&language=go&sort > <img width ='32px' height='32px' src ='https://miro.medium.com/v2/resize:fit:1000/0*YISbBYJg5hkJGcQd.png'> </a>
 <a href= https://github.com/whotterre?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
 <a href= https://github.com/whotterre?tab=repositories&q=&type=&language=redis&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redis.svg'> </a>
 <a href= https://github.com/whotterre?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
