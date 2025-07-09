@@ -3,7 +3,7 @@
 <img width="100%" height = "3000px" src="https://i.imgur.com/SKOe6gQ.gif" alt="cover" />
 </div>
 
-<h1> Starting up... <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Executing systemd init.d... <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=whotterre.whotterre)
