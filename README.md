@@ -9,7 +9,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=whotterre.whotterre)
 
 </p>
-<div size='20px'>I'm a software engineer who works with Go and TypeScript. You'll often find me deep in code, working on interesting projects. Right now, I'm super into learning all about microservices architectures – figuring out how to design and build systems that are not just robust, but also really scalable and easy to maintain. I'm also getting pretty cozy with AWS cloud services, constantly honing my skills to deploy and manage applications effectively in the cloud.
+<div size='20px'>I'm a software engineer who works with Go and TypeScript. This account contains most of the technologies I've experimented with and am currently exploring. Right now, I'm learning all about microservices architectures and cleaner code – figuring out how to design and build systems that are not just robust, but also really scalable and easy to maintain. I'm also getting pretty cozy with AWS cloud services, constantly honing my skills to deploy and manage applications effectively in the cloud.
 </div>
 
 <h2> About Me </h2>
