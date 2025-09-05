@@ -17,9 +17,10 @@
 
 - 🔭 I’m currently working on Github projects
 
-- 🌱 I’m currently learning AWS, microservice architecture and Go 
+- 🌱 I’m currently preparing for my AWS Cloud Practitioner exams 
 
-- 👯 I’m looking to collaborate on projects, tech articles... 
+- 👯 I’m looking to collaborate on projects
+- I love video game soundtracks and instrumentals as well :)
 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
