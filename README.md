@@ -17,9 +17,7 @@
 
 - 🔭 I’m currently working on Github projects
 
-- 🌱 I’m currently preparing for my AWS Cloud Practitioner exams 
 
-- 👯 I’m looking to collaborate on projects
 - I love video game soundtracks and instrumentals as well :)
 
 
