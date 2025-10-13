@@ -9,7 +9,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=whotterre.whotterre)
 
 </p>
-<div size='20px'>Software engineer driven by an inherent curiosity about how things work—and how to make them better. This space tracks my continuous exploration of new technologies and best practices. I'm always chasing the next-level challenge, focused on designing systems that are not just robust, but truly future-proof. Currently absorbed in learning a little everyday about cloud computing and distributed systems.
+<div size='20px'>Software engineer driven by an inherent curiosity about how things work—and how to make them better. This space tracks my continuous exploration of new technologies and best practices. I'm always chasing the next-level challenge, focused on designing systems that are not just robust, but truly future-proof. Currently learning about cloud computing and distributed systems.
 </div>
 
 <h2> About Me </h2>
