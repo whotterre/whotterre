@@ -33,6 +33,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 <a href = 'https://www.github.com/whotterre'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/iwegbu-jedidiah'> <img width = '32px' align= 'center' src="https://www.svgrepo.com/show/157006/linkedin.svg"/></a> 
 
 
 <figure><embed src="https://wakatime.com/share/@batos/a273d69a-0fe7-433a-b465-e7c75c4af041.svg"></embed></figure>
