@@ -15,7 +15,7 @@
 <h2> About Me </h2>
 
 
-- 🔭 I’m currently working on Github projects
+- 🔭 I’m currently reading papers on Consensus Algorithms in Distributed Systems
 
 
 - I love video game soundtracks and instrumentals as well :)
