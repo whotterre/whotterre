@@ -55,9 +55,6 @@ Currently learning about **cloud computing** and **distributed systems**.
 ## Connect with Me
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif" width="50" height="50" />
 
-<a href="https://www.github.com/whotterre">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="32" />
-</a>
 <a href="https://www.linkedin.com/in/iwegbu-jedidiah">
   <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="32" />
 </a>
