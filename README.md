@@ -50,5 +50,13 @@
 </a>
 
 
-[![LeetCode Stats](https://leetcode-git-card.vercel.app/api/card?username=bytepotato&difficulty=true&activity=true&skills=true&badges=true&submissions=true&beats=true&rank=true)](https://leetcode-git-card.vercel.app/api/card?username=bytepotato&difficulty=true&activity=true&skills=true&badges=true&submissions=true&beats=true&rank=true)
+<a href="https://leetcode-git-card.vercel.app/api/card?username=bytepotato&difficulty=true&activity=true&skills=true&badges=true&submissions=true&beats=true&rank=true"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img
+    src="https://leetcode-git-card.vercel.app/api/card?username=bytepotato&difficulty=true&activity=true&skills=true&badges=true&submissions=true&beats=true&rank=true"
+    alt="LeetCode Stats"
+  />
+</a>
+
 
