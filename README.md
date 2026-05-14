@@ -10,11 +10,9 @@
 # Executing systemd init.d...
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50" height="50" />
 
-Software engineer driven by an inherent curiosity about how things work and how to make them better.  
-This space tracks my continuous exploration of new technologies and best practices.
+Software engineer driven by curiosity about how things work—and how to make them better. This space tracks my ongoing exploration of new tech and best practices.
 
-I’m always chasing the next-level challenge, focused on designing systems that are not just robust, but truly future-proof.  
-Currently learning about **cloud computing** and **distributed systems**.
+I'm always chasing the next-level challenge, focused on building systems that are robust and actually future-proof. Currently diving deeper into concurrency in Go and learning the ropes of Bitcoin technology.
 
 ---
 
