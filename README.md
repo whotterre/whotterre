@@ -12,14 +12,13 @@
 
 Software engineer driven by curiosity about how things work—and how to make them better. This space tracks my ongoing exploration of new tech and best practices.
 
-I'm always chasing the next-level challenge, focused on building systems that are robust and actually future-proof. Currently diving deeper into concurrency in Go and learning the ropes of Bitcoin technology.
+I'm always chasing the next-level challenge, focused on building systems that are robust and actually future-proof. Currently diving deeper into concurrency in Go and learning a little about Rust and Bitcoin technology.
 
 ---
 
 ## About Me
 
-- 🔭 Currently reading papers on **Distributed Systems** and solving LeetCode problems.
-- 🎮 I love video game soundtracks and instrumentals as well
+- 🎮 Sucker for the Persona series / game soundtrack(s).
 
 ---
 
