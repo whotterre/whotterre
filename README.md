@@ -79,4 +79,4 @@ I'm always chasing the next-level challenge, focused on building systems that ar
 
 <br /><br />
 
-[![LeetCode Stats](https://leetcode-git-card.vercel.app/api/card?username=bytepotato&difficulty=true&activity=true&skills=true&badges=true&submissions=true&beats=true&rank=true)](https://leetcode-git-card.vercel.app/api/card?username=bytepotato&difficulty=true&activity=true&skills=true&badges=true&submissions=true&beats=true&rank=true)
+<!--[![LeetCode Stats](https://leetcode-git-card.vercel.app/api/card?username=bytepotato&difficulty=true&activity=true&skills=true&badges=true&submissions=true&beats=true&rank=true)]-->(https://leetcode-git-card.vercel.app/api/card?username=bytepotato&difficulty=true&activity=true&skills=true&badges=true&submissions=true&beats=true&rank=true)
