@@ -18,7 +18,7 @@ I'm always chasing the next-level challenge, focused on building systems that ar
 
 ## About Me
 
-- 🎮 Sucker for the Persona series / game soundtrack(s).
+- ....
 
 ---
 
