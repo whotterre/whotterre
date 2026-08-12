@@ -65,17 +65,10 @@ I'm always chasing the next-level challenge, focused on building systems that ar
 ---
 
 ## My GitHub Stats
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif" width="32" height="32" />
-
-<img
-  align="left"
-  src="https://github-readme-stats.vercel.app/api?username=whotterre&count_private=true&show_icons=true&theme=default"
-/>
-
-<img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=whotterre&theme=default"
-/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=whotterre&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=whotterre&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
 <br /><br />
 
