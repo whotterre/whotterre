@@ -58,12 +58,6 @@ I'm always chasing the next-level challenge, focused on building systems that ar
 
 ---
 
-## WakaTime Activity
-
-![WakaTime Stats](https://wakatime.com/share/@batos/a273d69a-0fe7-433a-b465-e7c75c4af041.svg)
-
----
-
 ## My GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=whotterre&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
