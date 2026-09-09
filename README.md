@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace this src with your own gif URL — grab one from giphy.com or tenor.com (search "typing laptop"), right-click → copy image address -->
-<img src="REPLACE_WITH_YOUR_GIF_URL" alt="typing" width="100%" height="220" style="object-fit: cover;" />
+<img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="typing" width="100%" height="100%" style="object-fit: cover;" />
 
 # Iwegbu Jedidiah
 ### Backend Engineer — Go · Node.js · Cloud Infrastructure
@@ -24,7 +24,7 @@ Backend engineer. Mad scientist too. I write backend code and occasionally under
 **Right now I'm:**
 - Rescuing old projects from half-finished purgatory - docs, real deployments, the works
 - Going deep on Go and Node instead of wide
-- Exploring stuff to apply GCP, K8s and AWS knowledge
+- Exploring stuff to apply and deepen GCP, K8s and AWS knowledge
 - Learning how to build reliable systems instead of ones that just work today
 - Considering some of that open source sorcery stuff 
 ---
