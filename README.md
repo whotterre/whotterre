@@ -29,7 +29,7 @@ Backend engineer. Mad scientist. I write backend code and occasionally understan
 
 ## Selected Projects
 
-**[qwizza](https://github.com/whotterre/qwizza)** — Real-time quiz platform built for 1,000+ concurrent players. Raw WebSockets instead of Socket.io to cut protocol overhead, Redis Sorted Sets for millisecond-level tie-breaking, Postgres checkpointing for crash recovery.
+**[qwizza](https://github.com/whotterre/qwizza)** — Real-time quiz platform in Node.js. Raw WebSockets instead of Socket.io to cut protocol overhead, Redis Sorted Sets for millisecond-level tie-breaking.
 🔗 [Live demo](https://qwizza.pxxlspace.cv)
 
 **[dns_pihole](https://github.com/whotterre/dns_pihole)** — A DNS proxy and ad-blocker written from scratch in Go, built to understand protocol internals: concurrent UDP query handling, session-aware filtering, and wildcard subdomain matching.
