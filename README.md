@@ -19,7 +19,7 @@ Backend systems, real-time services, and infrastructure that (mostly) doesn't fa
 
 ## About Me
 
-Backend engineer. Mad scientist too. I write backend code and occasionally understand why it works.
+Backend engineer. Mad scientist. I write backend code and occasionally understand why it works.
 
 **Right now I'm:**
 - Rescuing old projects from half-finished purgatory - docs, real deployments, the works
