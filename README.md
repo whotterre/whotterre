@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Replace this src with your own gif URL — grab one from giphy.com or tenor.com (search "typing laptop"), right-click → copy image address -->
 <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="typing" width="100%" height="100%" style="object-fit: cover;" />
 
 # Iwegbu Jedidiah
