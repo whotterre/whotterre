@@ -29,14 +29,14 @@ Backend engineer. Mad scientist. I write backend code and occasionally understan
 
 ## Selected Projects
 
-**[qwizza](https://github.com/whotterre/qwizza)** — Real-time quiz platform in Node.js. Raw WebSockets instead of Socket.io to cut protocol overhead, Redis Sorted Sets for millisecond-level tie-breaking.
+**[qwizza](https://github.com/whotterre/qwizza)** —  Real-time quiz app in Node.js. Raw WebSockets instead of Socket.io, Redis Sorted Sets for tie-breaking.
 🔗 [Live demo](https://qwizza.pxxlspace.cv)
 
-**[dns_pihole](https://github.com/whotterre/dns_pihole)** — A DNS proxy and ad-blocker written from scratch in Go, built to understand protocol internals: concurrent UDP query handling, session-aware filtering, and wildcard subdomain matching.
+**[dns_pihole](https://github.com/whotterre/dns_pihole)** — DNS proxy and ad-blocker in Go
 
 **[vuetube](https://github.com/whotterre/vuetube)** — Video streaming backend implementing DASH-style chunking with Go, sqlc, ffmpeg, and S3.
 
-**[rong](https://github.com/whotterre/rong)** — A circular reimagining of Pong with a real-time Go/Redis leaderboard backend.
+**[rong](https://github.com/whotterre/rong)** — Circular Pong with a Go/Redis leaderboard.
 
 ---
 
